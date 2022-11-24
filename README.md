@@ -1,3 +1,17 @@
+<h1 align="center">Hi , I'm Rithesh M Rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer|%20Software%20Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<p align="center">I am persuing Computer Science Engineering at <a href="https://www.bmsce.ac.in/" target="_blank"> BMSCE, Basavanagaudi</a>. I'm a self taught developer who loves learning about new technologies. I am currently learning Flutter. Apart from development, I love watching Movies, playing sports like basketball, badminton etc and learning new things. I'm a driven hard-working student, and what makes me who I am is my eagerness to learn new things.</p>
+<br>
+
+
+[![](https://visitcount.itsvg.in/api?id=ritheshcse&icon=0&color=1)](https://visitcount.itsvg.in)
+<br />
+---
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithesh_m_rao13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithesh-r-063374258) 
@@ -12,7 +26,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ritheshcse&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
